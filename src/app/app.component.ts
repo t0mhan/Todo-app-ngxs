@@ -10,5 +10,5 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-	public title = 'Todo App using NGXS';
+	public title = 'Todo App with NGXS';
 }
