@@ -13,8 +13,9 @@ export class TodoService {
 	/**
 	 * fetch todos
 	 */
+	// tslint:disable-next-line: typedef
 	fetchTodos() {
-		return this.http.get<Todo[]>('https://jsonplaceholder.typicode.com/todos?_start=0&_limit=15');
+		return this.http.get<Todo[]>('https://jsonplaceholder.typicode.com/todos?_start=0&_limit=5');
 	}
 
 	/**
