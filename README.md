@@ -1,6 +1,6 @@
 # Todo
 A simple todo CRUD app using Angular with NGXS State Management Library.
-Without downloading the code, check the demo app here: [todo-list-ngrs](www.google.com)
+Without downloading the code, check the demo app here: [todo-list-ngrs](https://todo-app-ngxs.netlify.app/)
 
 ## To use application: 
 1. Use 'npm install' to install libraries.
